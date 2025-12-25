@@ -15,7 +15,6 @@
 
 ## 🧑‍💻 WHO AM I?
 
-```bash
 root@hacker:~# whoami
 Ethical Hacker | Security Researcher | Python Developer
 
